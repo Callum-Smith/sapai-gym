@@ -5,7 +5,7 @@ setup(
       version='0.1.0',
       packages=find_packages(),
       install_requires=[
-          "sapai @ git+https://github.com/callum/sapai.git@main",
+          "sapai @ git+https://github.com/Callum-Smith/sapai.git@main",
           "gym~=0.21.0",
           "scikit-learn"
       ]
